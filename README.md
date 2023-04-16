@@ -1,2 +1,3 @@
 # testrepo
-Test amaçlı...
+
+Test amaçlı readme dosyasıdır...:)
